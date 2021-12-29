@@ -1,3 +1,3 @@
-module github.com/jai/go/learngo
+module github.com/jaisonjose89m/go/learngo
 
 go 1.17

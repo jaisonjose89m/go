@@ -1,4 +1,4 @@
-package learngo
+package collections
 
 import "fmt"
 

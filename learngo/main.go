@@ -2,16 +2,17 @@ package main
 
 import (
 	"fmt"
-	collections "github.com/jai/go/learngo/collections"
-	"github.com/jai/go/learngo/flow"
-	primitives "github.com/jai/go/learngo/primitives"
+	"github.com/jaisonjose89m/go/learngo/collections"
+	"github.com/jaisonjose89m/go/learngo/flow"
+	"github.com/jaisonjose89m/go/learngo/functions"
+	"github.com/jaisonjose89m/go/learngo/primitives"
 )
 
 func main() {
 	fmt.Println("Hello World !!!")
-	//workingWithPrimitives()
-	// collection()
-	//functions.InvokeFunc()
+	workingWithPrimitives()
+	collection()
+	functions.InvokeFunc()
 	loops()
 }
 

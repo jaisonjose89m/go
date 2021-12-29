@@ -1,4 +1,4 @@
-package learngo
+package primitives
 
 import "fmt"
 
