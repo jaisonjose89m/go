@@ -1,0 +1,6 @@
+---
+applications:
+  - name: webservice
+    command: webservice
+    buildpacks:
+      - https://github.com/cloudfoundry/go-buildpack.git
