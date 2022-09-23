@@ -9,5 +9,5 @@ import (
 func main() {
 	fmt.Println("Starting the server")
 	controllers.RegisterController()
-	http.ListenAndServe(":8080", nil)
+	http.ListenAndServe(":8082", nil)
 }
